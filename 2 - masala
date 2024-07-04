@@ -1,0 +1,4 @@
+# Masala : Og'irlik M kilogramda berilgan. Undagi toliq tonnalarda aniqlovchi dastur tuzing.1 tonna = 1000kg 
+ogirlik = int(input("Og'irlikni kiriting: "))
+tonna = ogirlik / 1000 # 1t = 1000kg 
+print(f"{ogirlik} kg = {tonna} tonna")
