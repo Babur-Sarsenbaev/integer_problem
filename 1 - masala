@@ -1,0 +1,4 @@
+# Masala : Uzunlik l santimetrda berilgan. Uni toliq metrlarda aniqlovchi dastur tuzing.
+uzunlik = int(input("Uzunlikni kiriting: ")) 
+metr = uzunlik /  # 1 metr = 100 sm 
+print(f"{uzunlik} sm = {metr} m")
