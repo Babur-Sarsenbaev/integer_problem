@@ -1,0 +1,4 @@
+# Masala : Fayl hajmi baytlarda berilgan . Uni butun ni olish operatsiyasidan foydalanib fayl hajmining kilobaytlarda aniqlovchi dastur tuzing.
+bayt = int(input("Fayl hajmini baytlarda kiriting: "))
+kilobayt = bayt // 1024
+print(f" Fayl hajmi {kilobayt} kilobaytda ") 
